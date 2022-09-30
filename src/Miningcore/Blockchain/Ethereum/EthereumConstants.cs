@@ -51,9 +51,9 @@ public class CallistoConstants
 
 public enum EthereumNetworkType
 {
-    Main = 1,
-    Ropsten = 3,
-    Callisto = 820,
+    Main,
+    Ropsten,
+    Callisto,
     MainPow = 10001,
 
     Unknown = -1,
